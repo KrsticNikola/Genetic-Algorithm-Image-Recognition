@@ -1,0 +1,10 @@
+populationSize: 60
+; IndividualType: TOP_BOTTOM_INDIVIDUAL
+; MIN_FEATURE_PERCENTAGE: 0.3
+; THRASHHOLD_MEDIAN_PERCENTAGE: 0.75
+; MIN_TRASHHOLD: 1550
+; MAX_TRASHHOLD: 1850
+; MAX_NUMBER_OF_FEATURES: 80
+;  Percentage of positives: 69.52625; Percentage of failed: 23.001776; Sum of features 0; Fitness value: 41.76784;  
+; Samples: 781
+; False samples: 1126
